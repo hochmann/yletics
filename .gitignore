@@ -1,0 +1,7 @@
+# Python-specific files to ignore
+pycache/
+*.pyc
+.vscode/
+
+# Virtual environment directory
+.venv/
