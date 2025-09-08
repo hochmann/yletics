@@ -1,0 +1,62 @@
+{
+  "sports": {
+    "Baby & Toddler": [
+      "Baby Swimming", "Baby Yoga", "Toddler Gymnastics", "Parent & Child Movement Classes", "Mini Athletics"
+    ],
+    "Gymnastics & Acrobatics": [
+      "Kids Gymnastics", "Artistic Gymnastics", "Rhythmic Gymnastics", "Trampoline Jumping", "Parkour / Freerunning", "Cheerleading", "Aerial Silks for Kids"
+    ],
+    "Dance & Movement": [
+      "Ballet", "Hip-Hop Dance", "Contemporary Dance", "Jazz Dance", "Breakdancing", "Tap Dance", "Folk & Cultural Dances", "Street Dance", "Latin Dance for Kids"
+    ],
+    "Team Sports": [
+      "Soccer / Football", "Basketball", "Volleyball", "Handball", "Rugby (Tag & Youth)", "Field Hockey", "Ice Hockey", "Baseball", "Softball", "Lacrosse", "Water Polo", "Cricket", "Ultimate Frisbee"
+    ],
+    "Racket Sports": [
+      "Tennis", "Table Tennis", "Badminton", "Squash", "Pickleball for Kids"
+    ],
+    "Martial Arts": [
+      "Karate", "Judo", "Taekwondo", "Aikido", "Brazilian Jiu-Jitsu", "Capoeira", "Kung Fu", "Boxing (Non-Contact Youth)", "Kickboxing for Kids", "Wrestling (Freestyle/Greco-Roman)"
+    ],
+    "Aquatics & Water Sports": [
+      "Swimming Lessons", "Synchronized Swimming", "Diving", "Kayaking for Kids", "Canoeing", "Rowing", "Stand-Up Paddleboarding (SUP)", "Youth Sailing", "Windsurfing"
+    ],
+    "Outdoor & Adventure": [
+      "Climbing / Bouldering", "Orienteering", "Adventure Hiking for Kids", "Mountain Biking", "Cycling / BMX", "Skateboarding", "Rollerblading / Inline Skating", "Ice Skating", "Snowboarding", "Skiing (Downhill & Cross-Country)"
+    ],
+    "Athletics & Fitness": [
+      "Track & Field (Running, Jumping, Throwing)", "Cross Country Running", "Youth Triathlon Training", "Strength & Conditioning for Kids", "Yoga for Kids & Teens", "Pilates for Kids", "Fitness Bootcamp for Kids", "Obstacle Course Training"
+    ],
+    "Specialized Sports": [
+      "Archery for Kids", "Fencing", "Golf", "Bowling Leagues for Kids", "Horseback Riding / Pony Club", "Go-Karting for Kids"
+    ]
+  },
+  "arts": {
+    "Visual Arts": [
+      "Drawing & Sketching", "Painting (Acrylic, Watercolor, Oil)", "Sculpture & Clay Modeling", "Pottery & Ceramics", "Digital Art for Kids", "Photography for Kids", "Crafts & DIY Projects", "Jewelry Making", "Calligraphy"
+    ],
+    "Performing Arts": [
+      "Children's Theater", "Drama & Acting Classes", "Puppetry", "Stage Improvisation", "Storytelling & Creative Writing", "Mime for Kids"
+    ],
+    "Media & Design": [
+      "Graphic Design for Kids", "Animation Basics", "Film Making for Youth", "Stop-Motion Animation", "Comics & Manga Drawing"
+    ],
+    "Cultural & Traditional Arts": [
+      "Folk Art Workshops", "Traditional Crafts", "Costume & Textile Design", "Calligraphy & Lettering"
+    ]
+  },
+  "music": {
+    "Instruments": [
+      "Piano Lessons", "Guitar Lessons (Acoustic & Electric)", "Violin Lessons", "Drums & Percussion", "Flute", "Clarinet", "Saxophone", "Trumpet", "Cello", "Ukulele", "Bass Guitar"
+    ],
+    "Singing & Voice": [
+      "Children's Choir", "Solo Singing Lessons", "Vocal Training", "Opera for Kids", "Musical Theater Singing"
+    ],
+    "Music Theory & Creativity": [
+      "Music Theory for Beginners", "Songwriting Workshops", "Music Production for Youth", "DJing for Teens", "Band / Ensemble Practice"
+    ],
+    "Cultural Music": [
+      "African Drumming", "Indian Classical Music", "Traditional Folk Instruments", "World Music Workshops"
+    ]
+  }
+}

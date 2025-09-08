@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "name": "Altstadt-Nord" }, "geometry": { "type": "Point", "coordinates": [6.9581, 50.9426] } },
+    { "type": "Feature", "properties": { "name": "Altstadt-Süd" }, "geometry": { "type": "Point", "coordinates": [6.9603, 50.9334] } },
+    { "type": "Feature", "properties": { "name": "Deutz" }, "geometry": { "type": "Point", "coordinates": [6.9748, 50.9383] } },
+    { "type": "Feature", "properties": { "name": "Ehrenfeld" }, "geometry": { "type": "Point", "coordinates": [6.9157, 50.9490] } },
+    { "type": "Feature", "properties": { "name": "Nippes" }, "geometry": { "type": "Point", "coordinates": [6.9515, 50.9701] } },
+    { "type": "Feature", "properties": { "name": "Mülheim" }, "geometry": { "type": "Point", "coordinates": [7.0000, 50.9660] } },
+    { "type": "Feature", "properties": { "name": "Chorweiler" }, "geometry": { "type": "Point", "coordinates": [6.9000, 51.0300] } },
+    { "type": "Feature", "properties": { "name": "Porz" }, "geometry": { "type": "Point", "coordinates": [7.0710, 50.8876] } },
+    { "type": "Feature", "properties": { "name": "Rodenkirchen" }, "geometry": { "type": "Point", "coordinates": [6.9866, 50.8851] } },
+    { "type": "Feature", "properties": { "name": "Lindenthal" }, "geometry": { "type": "Point", "coordinates": [6.9116, 50.9332] } },
+    { "type": "Feature", "properties": { "name": "Kalk" }, "geometry": { "type": "Point", "coordinates": [7.0050, 50.9393] } },
+    { "type": "Feature", "properties": { "name": "Dellbrück" }, "geometry": { "type": "Point", "coordinates": [7.0430, 50.9705] } },
+    { "type": "Feature", "properties": { "name": "Humboldt/Gremberg" }, "geometry": { "type": "Point", "coordinates": [7.0143, 50.9190] } },
+    { "type": "Feature", "properties": { "name": "Vingst" }, "geometry": { "type": "Point", "coordinates": [7.0152, 50.9305] } },
+    { "type": "Feature", "properties": { "name": "Bickendorf" }, "geometry": { "type": "Point", "coordinates": [6.8990, 50.9585] } },
+    { "type": "Feature", "properties": { "name": "Weidenpesch" }, "geometry": { "type": "Point", "coordinates": [6.9417, 50.9768] } },
+    { "type": "Feature", "properties": { "name": "Niehl" }, "geometry": { "type": "Point", "coordinates": [6.9607, 50.9860] } },
+    { "type": "Feature", "properties": { "name": "Riehl" }, "geometry": { "type": "Point", "coordinates": [6.9640, 50.9633] } },
+    { "type": "Feature", "properties": { "name": "Holweide" }, "geometry": { "type": "Point", "coordinates": [7.0518, 50.9695] } },
+    { "type": "Feature", "properties": { "name": "Brück" }, "geometry": { "type": "Point", "coordinates": [7.0641, 50.9494] } },
+    { "type": "Feature", "properties": { "name": "Wahnheide" }, "geometry": { "type": "Point", "coordinates": [7.0898, 50.8700] } },
+    { "type": "Feature", "properties": { "name": "Zollstock" }, "geometry": { "type": "Point", "coordinates": [6.9445, 50.9106] } },
+    { "type": "Feature", "properties": { "name": "Bayenthal" }, "geometry": { "type": "Point", "coordinates": [6.9642, 50.9142] } },
+    { "type": "Feature", "properties": { "name": "Raderberg" }, "geometry": { "type": "Point", "coordinates": [6.9633, 50.9072] } },
+    { "type": "Feature", "properties": { "name": "Sülz" }, "geometry": { "type": "Point", "coordinates": [6.9195, 50.9224] } },
+    { "type": "Feature", "properties": { "name": "Braunsfeld" }, "geometry": { "type": "Point", "coordinates": [6.8952, 50.9400] } },
+    { "type": "Feature", "properties": { "name": "Vogelsang" }, "geometry": { "type": "Point", "coordinates": [6.8830, 50.9510] } },
+    { "type": "Feature", "properties": { "name": "Esch/Auweiler" }, "geometry": { "type": "Point", "coordinates": [6.8718, 51.0171] } }
+  ]
+}
